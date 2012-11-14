@@ -1,3 +1,0 @@
-#export PS1="\u@\h: "
-
-export PS1="\u@\h:\w\$ "
