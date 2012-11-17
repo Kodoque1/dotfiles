@@ -1,0 +1,4 @@
+export PATH=$PATH:~/bin/
+export NETKIT_HOME=~/netkit/
+export PATH=$PATH:$NETKIT_HOME/bin
+#export MAN_PATH=

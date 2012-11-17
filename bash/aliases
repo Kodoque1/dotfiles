@@ -1,0 +1,2 @@
+alias ealias="vim ~/bin/dotfiles/bash/aliases"
+alias godev="cd ~/Documents/Dev"
