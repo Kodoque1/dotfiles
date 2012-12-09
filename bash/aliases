@@ -1,2 +1,28 @@
 alias ealias="vim ~/dotfiles/bash/aliases"
 alias godev="cd ~/Documents/Dev"
+alias vbun="cd ~/.vim/bundle/"
+alias rbash="source ~/.bashrc"
+
+take(){
+mkdir $1
+cd $1
+}
+
+#Git helper
+
+gclone(){
+git clone $1
+}
+
+gcommit(){
+git commit -m $1
+}
+
+alias gA="git add -A"
+alias gpull="git pull"
+alias gpush="git push"
+alias gamend="git commit --amend"
+
+#nodejs helper
+
+
